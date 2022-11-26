@@ -9,7 +9,7 @@
       "hash": "8da3fcbcb24d21de5ac541e12d8b572df66e906a1810e940e5376f5aec8e223f"
     }
   },
-  "extract_dir": "openjdk-20-loom",
+  "extract_dir": "jdk-20",
   "env_add_path": "bin",
   "env_set": {
     "JAVA_HOME": "$dir"
