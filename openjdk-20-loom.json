@@ -1,7 +1,7 @@
 {
   "description": "Project Loom Early-Access Build",
   "homepage": "http://jdk.java.net/loom/",
-  "version": "20",
+  "version": "20-loom+20-40",
   "license": "http://openjdk.java.net/legal/gplv2+ce.html",
   "architecture": {
     "64bit": {
